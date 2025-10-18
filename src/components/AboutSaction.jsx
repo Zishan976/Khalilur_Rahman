@@ -20,10 +20,9 @@ const AboutSaction = () => {
               Web Developer, Interface Designer & Creative Problem Solver
             </h3>
             <p>
-              I enjoy building thoughtful, user-friendly web experiences that
-              combine clean design, responsive layouts, and smooth interactions.
-              I focus on clarity, accessibility, and creativity—crafting
-              interfaces that feel intuitive and leave a lasting impression.
+              💼 Certified in Web Design & Development for Freelancing (Level 3)
+              by NSDA – trained in building responsive, accessible websites and
+              delivering client-ready solutions.
             </p>
 
             <div className="flex flex-col md:flex-row gap-4 pt-4 justify-center">
