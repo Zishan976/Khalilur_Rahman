@@ -14,6 +14,16 @@ const projects = [
   },
   {
     id: 2,
+    title: "Blog Website",
+    description:
+      "A Blog Website where users can read, write, and share articles on various topics. It features user authentication, rich text editing, and commenting system.you can count the viewers of each blog post.",
+    imageUrl: "/blog.png",
+    tag: ["React", "Node", "MongoDB", "Express"],
+    demoUrl: "https://blog-project-fontend.vercel.app/",
+    githubUrl: "https://github.com/Zishan976/Blog-project-fontend",
+  },
+  {
+    id: 3,
     title: "To-Do List Application",
     description:
       "A To-Do List Application to manage daily tasks efficiently.Its speciality is it has email reminder feature to notify users about upcoming deadlines.",
@@ -21,16 +31,6 @@ const projects = [
     tag: ["Ejs", "Node", "PostgreSQL", "Express"],
     demoUrl: "https://to-do-list-app-5fbw.onrender.com/",
     githubUrl: "https://github.com/Zishan976/To-Do-List-App",
-  },
-  {
-    id: 3,
-    title: "Zflix",
-    description:
-      "A social media web application that allows users to connect, share content, and interact with each other in a dynamic online environment.",
-    imageUrl: "/zflix.png",
-    tag: ["React", "React Router", "Api"],
-    demoUrl: "https://zflix.onrender.com",
-    githubUrl: "https://github.com/Zishan976/Zflix",
   },
 ];
 
