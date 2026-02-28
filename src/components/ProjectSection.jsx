@@ -14,23 +14,23 @@ const projects = [
   },
   {
     id: 2,
-    title: "Blog Website",
+    title: "Multi-Vendor E-commerce Platform",
     description:
-      "A Blog Website where users can read, write, and share articles on various topics. It features user authentication, rich text editing, and commenting system.you can count the viewers of each blog post.",
-    imageUrl: "/blog.png",
-    tag: ["React", "Node", "MongoDB", "Express"],
-    demoUrl: "https://blog-project-fontend.vercel.app/",
-    githubUrl: "https://github.com/Zishan976/Blog-project-fontend",
+      "A full-stack multi-vendor e-commerce platform enabling multiple vendors to register, manage products, process orders, and handle payments with an integrated admin dashboard for platform oversight.",
+    imageUrl: "/e-commerce.png",
+    tag: ["React", "Node", "PostgreSQL", "Express"],
+    demoUrl: "https://multi-vendor-e-commerce-platform-4vxy.onrender.com/",
+    githubUrl: "https://github.com/Zishan976/Multi-vendor-e-commerce-platform",
   },
   {
     id: 3,
-    title: "To-Do List Application",
+    title: "Zflix",
     description:
-      "A To-Do List Application to manage daily tasks efficiently.Its speciality is it has email reminder feature to notify users about upcoming deadlines.",
-    imageUrl: "/to-do-list.png",
-    tag: ["Ejs", "Node", "PostgreSQL", "Express"],
-    demoUrl: "https://to-do-list-app-5fbw.onrender.com/",
-    githubUrl: "https://github.com/Zishan976/To-Do-List-App",
+      "MovieFlix is a React-based movie browsing application with dynamic routing, featuring movie listings, detailed information pages, and a responsive design.",
+    imageUrl: "/zflix.png",
+    tag: ["React", "Node", "PostgreSQL", "Express"],
+    demoUrl: "https://zflix.onrender.com/",
+    githubUrl: "https://github.com/Zishan976/Zflix",
   },
 ];
 
