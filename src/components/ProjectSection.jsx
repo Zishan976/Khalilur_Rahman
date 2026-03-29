@@ -9,7 +9,7 @@ const projects = [
       "A Habit Tracking Web Application to help users build and maintain good habits through tracking and analytics.",
     imageUrl: "/habitto.png",
     tag: ["React", "Node", "Express", "PostgreSQL"],
-    demoUrl: "https://habitto.onrender.com/",
+    demoUrl: "https://habitto.up.railway.app",
     githubUrl: "https://github.com/Zishan976/Habit-Tracker-Website",
   },
   {
@@ -19,7 +19,7 @@ const projects = [
       "A full-stack multi-vendor e-commerce platform enabling multiple vendors to register, manage products, process orders, and handle payments with an integrated admin dashboard for platform oversight.",
     imageUrl: "/e-commerce.png",
     tag: ["React", "Node", "PostgreSQL", "Express"],
-    demoUrl: "https://multi-vendor-e-commerce-platform-4vxy.onrender.com/",
+    demoUrl: "https://multi-vendor-e-commerce-platform.up.railway.app",
     githubUrl: "https://github.com/Zishan976/Multi-vendor-e-commerce-platform",
   },
   {
